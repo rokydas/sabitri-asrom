@@ -1,0 +1,79 @@
+body{ 
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+header img{
+    width: 100px;
+}
+
+.nav-item{
+    margin: 0px 10px;
+    font-size: larger;
+}
+
+.nav-active{
+    border-bottom: 5px solid lightskyblue;
+    color: green;
+}
+
+.img-slider img{
+    height: 500px;
+}
+
+section{
+    margin-bottom: 100px;
+}
+
+.blog h2{
+    text-align: center;
+}
+
+.hori-row{
+    border: 5px solid lightskyblue;
+    border-radius: 5px;
+    width: 30%;
+    margin-bottom: 50px;
+}
+
+.blog-img{
+    height: 300px;
+}
+
+.card-title{
+    color: green;
+    font-weight: 700;
+}
+
+.card-footer{
+    background-color: white;
+    border: none;
+}
+
+.custom-button{
+    color: green;
+    padding: 10px 20px;
+    font-weight: 700;
+    border: 5px solid green;
+    text-decoration: none;
+    border-radius: 30px;
+    font-size: larger;
+}
+
+.custom-button:hover{
+    color: white;
+    background-color: green;
+}
+
+.blog a{
+    text-decoration: none;
+    color: green;
+}
+
+.blog h4{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.card:hover{
+    box-shadow: 5px 5px 50px lightgray;
+}
