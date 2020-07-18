@@ -1,0 +1,39 @@
+.puja-committee{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.puja-committee img{
+    border-radius: 50%;
+    width: 300px;
+}
+
+.profile{
+    border: 1px solid lightblue;
+    padding: 20px;
+}
+
+.profile-img{
+    padding: 30px;
+    max-height: 400px;
+}
+
+.profile:hover img{
+    transform: scale(1.1);
+}
+
+.profile img{
+    width: 80%;
+    margin-bottom: 15px;
+    transition: transform ease-in-out 0.5s;
+    overflow: hidden;
+}
+
+.profile h3{
+    color: purple;
+    font-weight: 800;
+}
+
+.row{
+    margin-bottom: 20px;
+}
