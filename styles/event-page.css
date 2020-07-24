@@ -1,0 +1,12 @@
+.photo-box{
+    border: 5px solid rgb(49, 129, 156);
+}
+
+.photo-box img{
+    width: 100%;
+    height: 250px;
+}
+
+.album{
+    margin-bottom: 50px;
+}
