@@ -1,0 +1,13 @@
+table, th, td {
+    border-collapse: collapse;
+    text-align: center;
+    padding: 15px;
+}
+
+table {
+    border-spacing: 15px;
+}
+
+.container h2{
+    text-align: center;
+}
