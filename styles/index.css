@@ -112,3 +112,14 @@ footer a, footer a:hover{
     text-decoration: none;
     color: white;
 }
+
+.sabitri-pic{
+    height: 500px;
+    text-align: center;
+}
+
+.sabitri-text{
+    font-size: 25px;
+    font-weight: 500;
+    text-align: justify;
+}

@@ -1,0 +1,33 @@
+.event-img img{
+    height: 300px;
+}
+
+.event{
+    margin-top: 50px;
+}
+
+.event-box{
+    border: 10px solid rgb(49, 129, 156);
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+.event-text{
+    text-align: center;
+    padding: 15px;
+    color: white;
+    font-weight: 700;
+    background-color: rgb(49, 129, 156);
+}
+
+.event-button{
+    background-color: white;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+.event-heading{
+    text-align: center;
+    margin-top: 50px;
+}
