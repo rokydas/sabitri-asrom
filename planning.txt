@@ -1,0 +1,14 @@
+1. Event er card er design
+2. bangla font (collection and testing in website)
+3. website intro
+4. Web banner
+5. blogpage(folder) ==> blogpage1, blogpage2, ...
+6. eventpage(folder) ==> eventpage1, eventpage2, ...
+7. Navbar design
+8. Reall logo collection
+9. Pop-up (image)
+10. committee er nam collection
+11. durgapujar chobi o sabitri ashromer chobi
+12. Table responsive
+13. footer ready kora 
+14. header o footer er link banano
